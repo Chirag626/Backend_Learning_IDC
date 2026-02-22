@@ -1,0 +1,33 @@
+==============================
+JAVA BASICS (OOPS SUPPORTING)
+==============================
+
+Concepts Covered:
+
+this keyword:
+- Refers to current object
+
+static keyword:
+- Belongs to class, not object
+- Shared memory
+
+final keyword:
+- Used with variable, method, class
+- Prevents change
+
+Enums:
+- Used to define constants
+
+Wrapper Classes:
+- Convert primitive to object
+
+Garbage Collector:
+- Automatically frees unused memory
+
+Shallow vs Deep Copy:
+- Shallow: reference copy
+- Deep: actual object copy
+
+Purpose:
+These concepts support core OOPS principles.
+

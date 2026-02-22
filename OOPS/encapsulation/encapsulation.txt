@@ -1,0 +1,26 @@
+==============================
+ENCAPSULATION
+==============================
+
+Definition:
+Encapsulation means wrapping data (variables) and methods together in one class.
+
+Key Principle:
+Data should be private and accessed using public getter and setter methods.
+
+Steps to Achieve Encapsulation:
+1. Declare variables as private
+2. Provide public getter & setter methods
+
+Concepts Included:
+- Data Hiding
+- Bank Account Example
+- BLC & ELC Structure
+
+Purpose:
+- Protect data
+- Control access
+- Improve security
+
+Example:
+Private balance variable in BankAccount class.

@@ -1,0 +1,32 @@
+==============================
+POLYMORPHISM
+==============================
+
+Definition:
+Polymorphism means one name, many forms.
+A single method behaves differently based on object or parameters.
+
+Types:
+1. Compile-time Polymorphism (Method Overloading)
+2. Runtime Polymorphism (Method Overriding)
+
+Compile-time Polymorphism:
+- Same method name
+- Different parameters
+- Decided at compile time
+
+Runtime Polymorphism:
+- Method overriding
+- Decided at runtime using dynamic binding
+
+Concepts Included:
+- Overloading
+- Overriding
+- Dynamic Method Dispatch
+- Functional Interface
+- Lambda Expressions
+
+Purpose:
+- Flexibility
+- Dynamic behavior
+- Cleaner code

@@ -1,0 +1,31 @@
+==============================
+ABSTRACTION
+==============================
+
+Definition:
+Abstraction means hiding internal implementation and showing only essential details.
+
+Ways to Achieve:
+1. Abstract Class
+2. Interface
+
+Abstract Class:
+- Can have abstract and concrete methods
+- Can have constructors
+- Uses 'abstract' keyword
+
+Interface:
+- Only abstract methods (before Java 8)
+- Supports multiple inheritance
+- Achieves 100% abstraction (conceptually)
+
+Important Concepts:
+- abstract keyword
+- Interface implementation
+- Anonymous inner class
+- Multiple inheritance using interfaces
+
+Purpose:
+- Reduce complexity
+- Increase security
+- Improve maintainability

@@ -1,0 +1,25 @@
+==============================
+CONSTRUCTORS
+==============================
+
+Definition:
+Constructor is a special method used to initialize objects.
+
+Rules:
+- Name same as class
+- No return type
+- Automatically called when object is created
+
+Types Covered:
+1. Default Constructor
+2. Parameterized Constructor
+3. Copy Constructor
+4. Object Reference Copy
+
+Important Concepts:
+- Constructor overloading
+- this() constructor chaining
+- Shallow copy vs deep copy
+
+Purpose:
+To initialize instance variables.

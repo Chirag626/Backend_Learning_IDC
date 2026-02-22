@@ -1,0 +1,33 @@
+==============================
+INHERITANCE
+==============================
+
+Definition:
+Inheritance allows one class to acquire properties and methods of another class using the 'extends' keyword.
+
+Purpose:
+- Code reusability
+- Method overriding
+- Runtime polymorphism
+- Establish IS-A relationship
+
+Types of Inheritance:
+1. Single Inheritance
+2. Multilevel Inheritance
+3. Hierarchical Inheritance
+4. Multiple Inheritance (using Interfaces)
+5. Hybrid Inheritance (combination)
+
+Important Keywords:
+- extends
+- super
+- final (to prevent inheritance)
+
+Important Concepts in This Folder:
+- super keyword (access parent members)
+- Method Overriding
+- Dynamic Method Dispatch
+- Upcasting & Downcasting
+
+IS-A Relationship Example:
+Dog IS-A Animal

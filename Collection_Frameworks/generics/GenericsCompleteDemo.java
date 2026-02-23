@@ -7,7 +7,7 @@ import java.util.*;
 // ============================================================
 
 /* ------------------------------------------------------------
-   1️⃣ Generic Class with Single Type Parameter
+   1️. Generic Class with Single Type Parameter
 ------------------------------------------------------------ */
 class Box<T> {
 
@@ -24,7 +24,7 @@ class Box<T> {
 
 
 /* ------------------------------------------------------------
-   2️⃣ Generic Class with Multiple Type Parameters
+   2️. Generic Class with Multiple Type Parameters
 ------------------------------------------------------------ */
 class Pair<K, V> {
 
@@ -43,7 +43,7 @@ class Pair<K, V> {
 
 
 /* ------------------------------------------------------------
-   3️⃣ Generic Interface
+   3️. Generic Interface
 ------------------------------------------------------------ */
 interface Container<T> {
 
@@ -54,7 +54,7 @@ interface Container<T> {
 
 
 /* ------------------------------------------------------------
-   4️⃣ Class Implementing Generic Interface
+   4️. Class Implementing Generic Interface
 ------------------------------------------------------------ */
 class StringContainer implements Container<String> {
 
@@ -71,7 +71,7 @@ class StringContainer implements Container<String> {
 
 
 /* ------------------------------------------------------------
-   5️⃣ Bounded Type Parameter (Upper Bound)
+   5️. Bounded Type Parameter (Upper Bound)
    T must extend Number
 ------------------------------------------------------------ */
 class Calculator<T extends Number> {
@@ -89,7 +89,7 @@ class Calculator<T extends Number> {
 
 
 /* ------------------------------------------------------------
-   6️⃣ Generic Utility Class (Generic Methods)
+   6️. Generic Utility Class (Generic Methods)
 ------------------------------------------------------------ */
 class Utility {
 
@@ -127,7 +127,7 @@ class Utility {
 
 
 /* ------------------------------------------------------------
-   7️⃣ Main Class
+   7️. Main Class
 ------------------------------------------------------------ */
 public class GenericsCompleteDemo {
 
@@ -195,7 +195,7 @@ public class GenericsCompleteDemo {
         List<String> names = new ArrayList<>();
         names.add("Rahul");
 
-        // names.add(100); ❌ Compile-time error
+        // names.add(100);  it will show Compile-time error
 
         System.out.println(names);
     }

@@ -1,4 +1,9 @@
- package OOPS.other_Concepts;
+/*
+1. Shallow Copy : Shallow copy copies primitive values but copies object references.
+2. Deep Copy    : Deep copy creates a new copy of both the object and its referenced objects.
+ */ 
+
+package OOPS.other_Concepts;
 
 // Class representing a Student
 class Stud1 {
